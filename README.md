@@ -2,7 +2,7 @@
 
 #### A Backend Developer by day ☼ and a Tech Explorer by night ☾
 
-Full-Stack Developer at [Medicare](https://hellomentor.in/);<br>
+Backend Developer at [Medicare](https://hellomentor.in/);<br>
 
 - ⚙️ I use daily: `.nodejs`, `.js`, `.docker`, `.aws`, `.postgres`, `.socket.io`, `.ai`
 - 🌍 I'm mostly active within the **Backend Community**
